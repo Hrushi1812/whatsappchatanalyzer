@@ -1,4 +1,5 @@
 WhatsApp Chat and Sentiment Analyzer 
+
 This is a simple Streamlit web app that helps you analyze your WhatsApp chat data.
 Just upload your exported .txt chat file and instantly get:
 Top Stats: Total messages, words, media, links.
